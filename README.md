@@ -20,6 +20,9 @@ python3 fileNameList.py \
 1. numpy append 및 insert 활용
 1. video data를 처리하기 위해 opencv를 활용하여 해당 비디오의 최대 프레임 count 가능
 
+# To do
+1. 4개 파일 간 데이터 연동 (클래스로 코드 작업하기)
+
 # Contacts
 seru_s@me.com
 
